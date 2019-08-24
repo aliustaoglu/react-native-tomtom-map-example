@@ -14,3 +14,9 @@ For IOS, in info.plist, add it as below or use Xcode for ease of use.
 	<string>YOUR_MAP_KEY</string>
 ```
 
+I have prepared a tutorial for this repository if you want to check out.
+
+Part.1 - Android: https://cuneyt.aliustaoglu.biz/en/using-tomtom-maps-in-react-native-with-android/
+
+
+Part.2 - IOS: https://cuneyt.aliustaoglu.biz/en/using-tomtom-maps-in-react-native-part-2-ios/
